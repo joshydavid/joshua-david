@@ -27,7 +27,7 @@
     "bun-types": "^1.1.12",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
-    "date-fns": "^3.6.0",
+    "date-fns": "^4.1.0",
     "eslint": "8.57.0",
     "framer-motion": "^11.12.0",
     "lucide-react": "^0.469.0",
